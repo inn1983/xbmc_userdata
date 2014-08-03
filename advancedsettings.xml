@@ -1,0 +1,7 @@
+<advancedsettings>
+  <gui>
+    <algorithmdirtyregions>3</algorithmdirtyregions>
+    <nofliptimeout>1000</nofliptimeout>
+  </gui>
+  <forcedswaptime>33</forcedswaptime>
+</advancedsettings>

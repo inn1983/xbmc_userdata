@@ -1,0 +1,15 @@
+<settings>
+    <setting id="epgPath" value="/home/cubie/gr_EPG/xmltv.xml" />
+    <setting id="epgPathType" value="0" />
+    <setting id="epgTSOverride" value="false" />
+    <setting id="epgTimeShift_" value="12" />
+    <setting id="epgUrl" value="" />
+    <setting id="logoPath" value="" />
+    <setting id="m3uPath" value="/home/cubie/wkdir/iptv.m3u" />
+    <setting id="m3uPathType" value="0" />
+    <setting id="m3uUrl" value="" />
+    <setting id="sep1" value="" />
+    <setting id="sep2" value="" />
+    <setting id="sep3" value="" />
+    <setting id="startNum" value="1" />
+</settings>
