@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keymap>
+	<global>
+		<keyboard>
+			<F5>XBMC.ReloadSkin()</F5>
+			<F6>Skin.ToggleSetting(DebugGrid)</F6>
+			<F7>Skin.ToggleSetting(HideDebugInfo)</F7>
+			<F8>Skin.ToggleSetting(SignageTest)</F8>
+			<F9>Skin.ToggleSetting(SignageTest_imge)</F9>
+			<!--F9>Skin.ToggleSetting(SignageTest_pic)</F9-->
+			</keyboard>
+	</global>
+</keymap>
